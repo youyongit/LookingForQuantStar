@@ -1,0 +1,8 @@
+##ignore this file##
+.git
+.ipynb_checkpoints
+
+build
+devel
+include
+
